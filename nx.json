@@ -40,6 +40,13 @@
       "tags": [],
       "implicitDependencies": ["my-site"]
     },
+    "store": {
+      "tags": []
+    },
+    "store-e2e": {
+      "tags": [],
+      "implicitDependencies": ["store"]
+    },
     "ui-header": {
       "tags": []
     }
